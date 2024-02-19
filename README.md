@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/anismomin/anismomin/master/fullstack.jpg" alt="MasterHead" width="700" height="200">
+  <img src="https://raw.githubusercontent.com/anismomin/anismomin/master/fullstack.jpg" alt="MasterHead" width="800" height="300">
 </div>
 <h1 align="center">Hi 👋, I'm Aditya Navgare</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
