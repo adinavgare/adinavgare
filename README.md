@@ -1,4 +1,6 @@
-<img src="https://cdn.pixabay.com/photo/2023/12/10/18/34/man-8442149_640.png" alt="MasterHead" width="700" height="200" text-align="center">
+<div style="text-align: center;">
+  <img src="https://cdn.pixabay.com/photo/2023/12/10/18/34/man-8442149_640.png" alt="MasterHead" width="700" height="200">
+</div>
 <h1 align="center">Hi 👋, I'm Aditya Navgare</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  width="400">
